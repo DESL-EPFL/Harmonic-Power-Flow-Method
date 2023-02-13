@@ -1,4 +1,7 @@
 # HPF
+
+[![DOI](https://zenodo.org/badge/599111648.svg)](https://zenodo.org/badge/latestdoi/599111648)
+
 This repository comprehends a Matlab project for the Harmonic Power-Flow (HPF) calculus in power systems with a high share of Converter-Interfaced Distributed Energy Resources (CIDERs). The project consists of:
 
 * The Matlab Code performing the HPF study proposed in [[1]](#1), [[2]](#2) and its extensions as in [[3]](#3), [[4]](#4).
