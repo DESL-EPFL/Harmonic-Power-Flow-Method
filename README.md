@@ -1,4 +1,4 @@
-# HPF
+# Harmonic Power-Flow Study
 
 [![DOI](https://zenodo.org/badge/599111648.svg)](https://zenodo.org/badge/latestdoi/599111648)
 
